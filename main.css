@@ -1,0 +1,40 @@
+h1 { 
+	color: blue;
+
+	}
+	p {color: darkred;}
+	footer
+	{
+		color: #ffffff;
+		background-color: #24252a
+	}
+
+
+
+	nav    {
+    background-color: lightblue;
+    width: 50%;
+    margin : auto;
+    padding: 20px;
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+     color: deeppink;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: black;
+}
+
+h1:hover {
+    cursor: pointer;
+    front-size  : 50px ;
+}
